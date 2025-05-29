@@ -2,3 +2,12 @@
 - SLA
 - Persistencia dos dados
 - Regiões
+- Instancia de BD
+- Tipos de serviço na nuvem(IaaS, PaaS, SaaS)
+- zona
+- regiao
+- recursos
+- assinatura
+- VM
+- Conteiners
+- Aplicativos
