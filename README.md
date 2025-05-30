@@ -11,3 +11,6 @@
 - VM
 - Conteiners
 - Aplicativos
+- Identidade
+- Entra ID
+- Acesso Condicional
