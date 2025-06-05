@@ -1,4 +1,4 @@
-# desafio-dio-vm-azure
+# desafio-dio-azure
 - SLA
 - Persistencia dos dados
 - Regiões
@@ -14,3 +14,9 @@
 - Identidade
 - Entra ID
 - Acesso Condicional
+
+  # AI
+  - Recursos
+  - Bot
+  - Fala
+  - Language Studio
