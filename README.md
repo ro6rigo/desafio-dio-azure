@@ -20,3 +20,8 @@
   - Bot
   - Fala
   - Language Studio
+  - Blob Storage
+  - Data Lake Storage
+  - Table Storage
+  - Indexação
+  - Cognitive Search
