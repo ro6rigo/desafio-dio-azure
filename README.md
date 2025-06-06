@@ -25,3 +25,6 @@
   - Table Storage
   - Indexação
   - Cognitive Search
+  - IA Generativa Responsavel
+  - Azure OpenAI
+  - Microsoft Copilot
